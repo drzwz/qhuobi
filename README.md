@@ -12,6 +12,6 @@
 
 ## 注
 
-1.火币提示使用境外服务器访问火币API（ <https://github.com/huobiapi/API_Docs/wiki/WS_request> ）。在境内网络使用qhuobi可能因HTTP GET出现锁死状态。
+1.火币提示使用境外服务器访问火币API。在境内网络使用qhuobi可能因HTTP GET出现锁死状态。
 
 2.支持Windows/Linux/MacOS
