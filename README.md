@@ -1,8 +1,8 @@
 # qhuobi
 
-火币合约的行情、交易接口及策略例子
+  火币合约(hbdm)的行情、交易接口及策略例子
 
-# 用法
+## 用法
 
 1、登录 <https://www.hbdm.com> ，在API管理中创建AccessKey和SecretKey。
 
@@ -10,8 +10,8 @@
 
 3、运行ts_huobi.bat启动策略例子。
 
-## 注：
+## 注
 
-1.火币建议使用国外服务器访问API。在国内网络使用qhuobi可能因HTTP GET时出现锁死状态。
+1.火币提示使用境外服务器访问火币API（ <https://github.com/huobiapi/API_Docs/wiki/WS_request> ）。在境内网络使用qhuobi可能因HTTP GET出现锁死状态。
 
-2.支持windows/linux/mac
+2.支持Windows/Linux/MacOS
