@@ -11,10 +11,7 @@
 3、运行ts_huobi.bat启动策略例子。
 
 ## 注：
-1.火币建议使用国外服务器访问API。在国内网络使用qhuobi可能因HTTP GET时出现锁死状态。
-2.支持windows/linux
 
-# 文件
-ts_huobi.q  策略文件，一般只需要修改这个文件
-qhuobi.q    行情和交易接口
-cryptoq.q/cryptoq_binary.q HMAC_SHA256等签名算法
+1.火币建议使用国外服务器访问API。在国内网络使用qhuobi可能因HTTP GET时出现锁死状态。
+
+2.支持windows/linux/mac
